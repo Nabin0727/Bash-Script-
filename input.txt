@@ -1,0 +1,5 @@
+Hello this is an input file for the bash scripting!!
+This is second line of the input file.
+This is line third.
+This is line four.
+This is line five.
